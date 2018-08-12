@@ -14,7 +14,6 @@
 	<version>0.0.1-SNAPSHOT</version>                               <!--Versao do projeto -->
 	<packaging>jar</packaging>                                      <!-- Tipo do projeto, ou seja, o que vai ser gerado quando eu terminar o projeto e fazer o build -->
 
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
