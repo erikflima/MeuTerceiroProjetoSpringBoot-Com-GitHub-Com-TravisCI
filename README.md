@@ -1,4 +1,4 @@
-<b>Status do último build que o TravisCI executou: </b> [![Build Status](https://travis-ci.com/erikflima/MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI.svg?branch=master)](https://travis-ci.com/erikflima/MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI)
+<b>Status do último build que o TravisCI executou(clicável): </b> [![Build Status](https://travis-ci.com/erikflima/MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI.svg?branch=master)](https://travis-ci.com/erikflima/MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI)
 
 # MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI
 <b>Curso Spring Boot - Guia de Referencia.</b>
