@@ -11,6 +11,8 @@ public class MeuTerceiroProjetoSpringBootComGitHubComTravisCiApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		System.out.println("\n\nErik - Executando um teste\n\n");
 	}
 
 }
