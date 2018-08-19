@@ -3,7 +3,9 @@ package com.erikcompany.meuprojetospringbootcomgithubcomtravisCi;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//Classe principal que de fato executa o projeto.
+
+@SpringBootApplication //Anotacao do Spring Boot que faz tudo acontecer. Inicializa o Spring Boot, componentes, entre outras coisas.
 public class MeuTerceiroProjetoSpringBootComGitHubComTravisCiApplication {
 
 	public static void main(String[] args) {

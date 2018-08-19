@@ -1,3 +1,4 @@
+#Esse eh um arquivo que contem instrucoes para a "plataforma https://travis-ci.com" realize o build do meu projeto.
 language: java 
 jdk:
   - oraclejdk8
