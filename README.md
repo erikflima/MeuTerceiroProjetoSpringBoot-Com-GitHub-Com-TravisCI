@@ -3,8 +3,8 @@
 # MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI
 <b>Curso Spring Boot - Guia de Referencia.</b>
 
-Projeto que criei para deixar de template.
-<br> -> Criei esse projeto usando o STS, utilizando a opção "File -> new -> Sprint Starter Project".
+**Projeto que criei para deixar de template.**
+<br><br> -> Criei esse projeto usando o STS, utilizando a opção "File -> new -> Sprint Starter Project".
 
 <br><br> -> Esse Projeto está sendo versionado pelo Git e tem um repositorio no GitHub   (https://github.com/erikflima/MeuTerceiroProjetoSpringBoot-Com-GitHub-Com-TravisCI.git)
 
